@@ -1,7 +1,7 @@
 ### Olá, eu sou o Bruno Soares ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-soares-231552163/)
-[![Portifóli](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portifoliobrunosoares.netlify.app/)
+[![Portifóli](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bospotfolio.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/10brunosoares?igshid=YmMyMTA2M2Y=)
 
 
